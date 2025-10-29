@@ -1,7 +1,7 @@
 Package: AWAggregatorData
 Type: Package
 Title: Attribute-Weighted Aggregation Data
-Version: 0.99.4
+Version: 1.0.0
 Authors@R:
     c(
         person(given = "Jiahua",
